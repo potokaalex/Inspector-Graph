@@ -13,3 +13,6 @@ Then, in any Monobehaviour script, connect the "InspectorGraph" namespace and in
 Don't forget to define the "GetFunctionValue" method in which you should specify your mathematical function.<br>
 You may not initialize it, but it must be public or marked with the "[SerializeField]" attribute.<br>
 The place where the graph is displayed depends on the location of the "Graph" field.<br>
+
+## License
+See [here](LICENSE).
