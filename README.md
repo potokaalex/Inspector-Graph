@@ -1,4 +1,4 @@
-![titleBanner](https://user-images.githubusercontent.com/98838657/229546267-bbbf65cd-2c0b-4e33-b7c3-f2c7cb267a79.png)
+![titleBanner](https://user-images.githubusercontent.com/98838657/235350873-bf6dd0cb-db0e-4948-9ada-9298ce67884c.png)
 
 ## Introduction
 Inspector Graph is a tool for drawing a mathematical function as a property in the inspector.<br>
