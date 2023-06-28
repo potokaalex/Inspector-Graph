@@ -15,4 +15,4 @@ You may not initialize it, but it must be public or marked with the "[SerializeF
 The place where the graph is displayed depends on the location of the "Graph" field.<br>
 
 ## License
-See [here](LICENSE).
+See [here](LICENSE.txt).
