@@ -11,8 +11,8 @@ This tool is open source.
 To use this in your project, you have to download the repository and place it anywhere in the "Assets" folder.<br>
 Then, in any Monobehaviour script, connect the "InspectorGraph" namespace and inherit from "IFunction".<br>
 Don't forget to define the "GetFunctionValue" method in which you should specify your mathematical function.<br>
-You may not initialize it, but it must be public or marked with the "[SerializeField]" attribute.<br>
+Then define the "Graph" field. You may not initialize it, but it must be public or marked with the "[SerializeField]" attribute.<br>
 The place where the graph is displayed depends on the location of the "Graph" field.<br>
 
 ## License
-See [here](LICENSE.txt).
+See [here](LICENSE).
